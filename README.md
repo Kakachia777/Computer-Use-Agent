@@ -6,7 +6,7 @@ If you like our project, please give us a star on GitHub for the latest update.
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkakachia777%2Fcomputer_use_ootb&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkakachia777%2Fcomputer_use_ootb)
 
 ## Overview
-This is an out-of-the-box (OOTB) solution for Claude's new Computer Use APIs, now with extended support for multiple LLMs including GPT-4 and Qwen2-VL. 
+This is an out-of-the-box (OOTB) solution for Claude's new Computer Use APIs, now with extended support for multiple LLMs including GPT-4o and Claude Sonnet 3.5, Haiku.
 
 **No Docker** is required, and it supports both **Windows** and **macOS**. This project provides a user-friendly interface based on Gradio.
 

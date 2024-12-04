@@ -1,0 +1,66 @@
+{
+    "Web Navigation": {
+        "Shopping": {
+            "Search Gift Card": {
+                "hint": "Search for 'You are Amazing' congrats gift card",
+                "prompt": "Search for 'You are Amazing' congrats gift card",
+                "initial_state": ".\\examples\\init_states\\amazon.png"
+            },
+            "Add Headphones": {
+                "hint": "Add a set of wireless headphones to your cart",
+                "prompt": "Add a set of wireless headphones to your cart",
+                "initial_state": ".\\examples\\init_states\\amazon.png"
+            }
+        },
+        "Accommodation": {
+            "Find Private Room": {
+                "hint": "Find a private room in New York",
+                "prompt": "Find a private room in New York",
+                "initial_state": ".\\examples\\init_states\\booking.png"
+            }
+        },
+        "Gaming": {
+            "Walk-through Guide": {
+                "hint": "Find a walk-through guide for the game 'Black Myth: Wukong'",
+                "prompt": "Find a walk-through guide for the game 'Black Myth: Wukong'",
+                "initial_state": ".\\examples\\init_states\\ign.png"
+            }
+        }
+    },
+    "Presentations": {
+        "Create Presentation": {
+            "hint": "Create a new presentation and set the title to 'Hail Computer Use OOTB!'",
+            "prompt": "Create a new presentation and edit the title to 'Hail Computer Use OOTB!'",
+            "initial_state": ".\\examples\\init_states\\powerpoint_homepage.png"
+        },
+        "Duplicate First Slide": {
+            "hint": "Duplicate the first slide in PowerPoint",
+            "prompt": "Duplicate the first slide in PowerPoint",
+            "initial_state": ".\\examples\\init_states\\powerpoint.png"
+        },
+        "Insert Picture": {
+            "hint": "Insert a picture from my device into the current slide, selecting the first image in the photo browser",
+            "prompt": "Insert a picture from my device into the current slide",
+            "initial_state": ".\\examples\\init_states\\powerpoint.png"
+        },
+        "Apply Morph Transition": {
+            "hint": "Apply the Morph transition to all slides",
+            "prompt": "Apply the Morph transition to all slides",
+            "initial_state": ".\\examples\\init_states\\powerpoint.png"
+        }
+    },
+    "Game Play": {
+        "Honkai: Star Rail": {
+            "Warp": {
+                "hint": "Perform a warp (gacha pull)",
+                "prompt": "You are currently playing Honkai: Star Rail, your objective is to perform a 10-warp pull for me. Press escape on the keyboard to open the menu, then click warp. It should open the warp page, and the first entry on the left side would be 'Words of Yore', this would be the destination pool. Then click on 'warp x10' to perform a 10-warp pull, then click at the blank space at the right-up corner to reveal the arrow at the right-up corner, then click on the arrow to skip the animation. Always click on the arrow to continue skipping the animation if there is an arrow at the right-up corner. Only when all animations are skipped by clicking on the arrows, the pull summary page will appear and there would be a cross there, click on the cross to finish the pull. Good luck!",
+                "initial_state": ".\\examples\\init_states\\honkai_star_rail.png"
+            },
+            "Daily Task": {
+                "hint": "Complete the daily task",
+                "prompt": "You are currently playing Honkai: Star Rail, your objective is to finish a daily game task for me. Press escape on the keyboard to open the menu, then click interastral guide, then click 'calyx golden for exp' entry on the left side of the popped up game window. Only then click on the teleport button on the same line of the first entry named 'buds of MEMORIES' (you need to carefully check the name), then click 'plus +' button 5 times to increase attempts to 6, then click challenge, then click start challenge. Then click the auto-battle button at the right-up corner - carefully count from the right to the left, it should be the second icon, it is near the 'pause' icon, it looks like an 'infinite' symbol. Then click on exit when the battle is completed.",
+                "initial_state": ".\\examples\\init_states\\honkai_star_rail.png"
+            }
+        }
+    }
+}

@@ -1,7 +1,5 @@
 ﻿# The Dawn of GUI Agent: A Preliminary Case Study with Claude 3.5 Computer Use
 
-If you like our project, please give us a star on GitHub for the latest update.
-
 [![arXiv](https://img.shields.io/badge/Arxiv-2411.10323-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2411.10323)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkakachia777%2Fcomputer_use_ootb&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkakachia777%2Fcomputer_use_ootb)
 

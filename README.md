@@ -13,7 +13,7 @@ This is an out-of-the-box (OOTB) solution for Claude's new Computer Use APIs, no
 For more information, you can visit our [project page](https://computer-use-ootb.github.io).
 
 ## Update
-- **[2024/11/21]** Added support for multiple LLMs (GPT-4, Qwen2-VL) with cost tracking features.
+- **[2024/12/05]** I Added GPT-4o with Gradio support.
 - **[2024/11/20]** We've added some examples to help you get hands-on experience with Claude 3.5 Computer Use.
 - **[2024/11/19]** Forget about the single-display limit set by Anthropic - you can now use **multiple displays**!
 - **[2024/11/18]** We've released a deep analysis of Claude 3.5 Computer Use: [https://arxiv.org/abs/2411.10323](https://arxiv.org/abs/2411.10323).
@@ -22,6 +22,22 @@ For more information, you can visit our [project page](https://computer-use-ootb
 - **[2024/10/25]** Now you can **Remotely Control** your computer through your mobile device - **No Mobile App Installation** required! Give it a try and have fun.
 
 [Previous demo video section remains unchanged]
+
+
+## Demo Video
+
+https://github.com/user-attachments/assets/333e536e-93d0-4a97-8c9b-8f0722c29d51
+
+[![Watch the video](https://img.youtube.com/vi/Ychd-t24HZw/maxresdefault.jpg)](https://youtu.be/Ychd-t24HZw)
+
+[![Watch the video](https://img.youtube.com/vi/cvgPBazxLFM/maxresdefault.jpg)](https://youtu.be/cvgPBazxLFM)
+
+Mobile Interface
+
+<img src="./assets/gradio_mobile.jpg" alt="gradio_interface" width="30%">
+
+Desktop Interface
+![gradio_interface](./assets/gradio_interface.png)
 
 ## Getting Started
 
@@ -85,7 +101,7 @@ The new cost tracking feature helps you monitor API usage:
 - [ ] **Support for More MLLMs**
   - [x] **Claude 3.5 Sonnet**
   - [x] **GPT-4**
-  - [x] **Qwen2-VL**
+  - [ ] **Qwen2-VL**
   - [ ] ...
 - [ ] **Improved Prompting Strategy**
   - [x] **Cost tracking and optimization**
